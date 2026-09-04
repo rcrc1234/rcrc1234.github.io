@@ -1,0 +1,3 @@
+id,title,description,link,image_link,price,availability,brand,google_product_category
+fixture-001,Fidget Spinner Mini,Fidget spinner 316 steel,https://rcrc1234.github.io/products/spinner,https://rcrc1234.github.io/img/spinner.jpg,9.99 USD,in stock,FixtureBrand,Toys & Games
+fixture-002,Fidget Spinner Pro,Fidget spinner pro version,https://rcrc1234.github.io/products/spinner-pro,https://rcrc1234.github.io/img/spinner-pro.jpg,19.99 USD,in stock,FixtureBrand,Toys & Games
